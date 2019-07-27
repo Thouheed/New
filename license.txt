@@ -177,3 +177,4 @@
 
 Ant build
 trigger succefully excuted
+war deployement
